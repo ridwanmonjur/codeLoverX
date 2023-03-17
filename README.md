@@ -7,9 +7,9 @@ Web Developer and Afficionado
 I have been learning development for a long time, and I am enthralled by it.
 
 * 🌍  I'm based in Dhaka, Bangladesh.
-* 🖥️  See my portfolio at [here.](http://https://ridwanbinmonjurv1.netlify.app/)
+* 🖥️  See my portfolio at [here.](https://ridwanbinmonjurv1.netlify.app/)
 * ✉️  You can contact me at [mjrrdn@gmail.com.](mailto:mjrrdn@gmail.com.)
-* 🚀  I'm currently working on [my hobby project.](http://https://football-mern-shop.netlify.app/)
+* 🚀  I'm currently working on [my hobby project.](https://football-mern-shop.netlify.app/)
 * 🧠  I'm learning Docker, Kubernetes, AWS.
 * 🤝  I'm open to collaborating on interesting job opportunites.
 * ⚡  I'm an extroverted introvert, but I prefer to gel in with others and hide my nerd-ish tendencies!
